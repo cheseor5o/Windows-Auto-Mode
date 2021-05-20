@@ -1,0 +1,9 @@
+{
+  "light-time": "06:00",
+  "dark-time": "16:27",
+
+  "sys-light": true,
+  "sys-dark": true,
+  "app-light": true,
+  "app-dark": true
+}
