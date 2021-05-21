@@ -1,8 +1,8 @@
 {
   "light-time": "06:00",
-  "dark-time": "18:30",
+  "dark-time": "18:43",
 
-  "sys-light": true,
+  "sys-light": false,
   "sys-dark": true,
   "app-light": true,
   "app-dark": true
